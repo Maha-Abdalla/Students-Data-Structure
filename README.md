@@ -1,3 +1,6 @@
+
+<img width="1200" height="400" alt="Students-Data-Structure" src="https://github.com/user-attachments/assets/08a57c6c-cac0-4cc3-9999-870e7e8ef7da" />
+
 # Students-Data-Structure
 Students Data Structure manages student information with features.
 It uses a text-based menu for user interaction, ensures data integrity with validation, and supports data persistence with file handling.
